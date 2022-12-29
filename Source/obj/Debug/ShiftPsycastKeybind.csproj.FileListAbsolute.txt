@@ -1,0 +1,9 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\ShiftPsycastKeybind\Source\obj\Debug\ShiftPsycastKeybind.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\ShiftPsycastKeybind\Source\obj\Debug\ShiftPsycastKeybind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\ShiftPsycastKeybind\Source\obj\Debug\ShiftPsycastKeybind.AssemblyInfoInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\ShiftPsycastKeybind\Source\obj\Debug\ShiftPsycastKeybind.AssemblyInfo.cs
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\ShiftPsycastKeybind\Source\obj\Debug\ShiftPsycastKeybind.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\ShiftPsycastKeybind\1.4\Assemblies\ShiftPsycastKeybind.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\ShiftPsycastKeybind\1.4\Assemblies\ShiftPsycastKeybind.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\ShiftPsycastKeybind\Source\obj\Debug\ShiftPsycastKeybind.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\ShiftPsycastKeybind\Source\obj\Debug\ShiftPsycastKeybind.pdb
